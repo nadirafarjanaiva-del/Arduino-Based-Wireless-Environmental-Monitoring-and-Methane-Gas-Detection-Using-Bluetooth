@@ -1,6 +1,6 @@
 # Arduino-Based Wireless Environmental Monitoring and Methane Gas Detection Using Bluetooth
 
-An Arduino-based environmental monitoring and methane gas detection system using an MQ-4 gas sensor, HC-06 Bluetooth module, LED, and buzzer. The system continuously monitors methane gas levels and wirelessly transmits real-time readings to a mobile phone through Bluetooth while providing local visual and audible alerts when the gas concentration exceeds a predefined threshold.
+An Arduino-based environmental monitoring and methane gas detection system using an MQ-4 gas sensor, HC-06 Bluetooth module, LED, and buzzer. The system continuously monitors methane gas levels and wirelessly transmits real-time readings to a mobile phone through Bluetooth while providing local visual and audible alerts when the gas concentration exceeds a predefined threshold. Watch this on https://youtube.com/shorts/GFs-Is-Qz2k?si=rbg_HZxpI6OcuIGa.
 
 # Overview
 
